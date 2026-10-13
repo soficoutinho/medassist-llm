@@ -1,0 +1,32 @@
+
+# Ambiente virtual
+.venv/
+
+# Modelos locais
+models/
+checkpoints/
+
+# Checkpoints intermediarios dos experimentos
+experiments/exp*/checkpoint-*/
+
+# Adaptadores LoRA treinados (pesos binarios)
+experiments/exp*/final_adapter/*.safetensors
+experiments/exp*/final_adapter/*.bin
+
+# Cache Hugging Face e Python
+.cache/
+__pycache__/
+*.pyc
+.pytest_cache/
+.huggingface/
+
+# Arquivos temporarios
+*.tmp
+*.log
+
+# VS Code
+.vscode/
+
+# Sistema
+.DS_Store
+Thumbs.db

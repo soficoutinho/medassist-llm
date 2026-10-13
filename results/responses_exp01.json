@@ -1,0 +1,68 @@
+{
+    "model": "Qwen/Qwen3-0.6B",
+    "adapter": "experiments\\exp01\\final_adapter",
+    "time_seconds": 191.03451418876648,
+    "peak_gpu_memory_gb": 1.181635856628418,
+    "responses": [
+        {
+            "id": 1,
+            "question": "Cheguei a um local e encontrei uma pessoa caída que não responde e parece não respirar normalmente. Quais são minhas prioridades?",
+            "reference": "Primeiro, confirme que o local é seguro. Verifique rapidamente a responsividade e a respiração. Se a pessoa estiver inconsciente e não respirar normalmente, acione imediatamente o serviço de emergência, peça um DEA e inicie RCP conforme seu nível de treinamento. Utilize o DEA assim que estiver disponível e siga suas instruções.",
+            "answer": "Priorize a avaliação do estado da pessoa, seguido pelo atendimento imediato. Se a pessoa não responde ou não respirar normalmente, immediate a chamada do serviço de emergência (911) e seguir as orientações do profissional de saúde. Não se esqueça de verificar a respiração e o estado de saúde da pessoa."
+        },
+        {
+            "id": 2,
+            "question": "Uma pessoa cortou profundamente o braço e o sangramento não para. Como devo agir inicialmente?",
+            "reference": "Garanta que o local seja seguro e acione o serviço de emergência diante de hemorragia grave. Aplique pressão direta firme sobre o ferimento. Continue mantendo a pressão e observando a vítima enquanto aguarda ajuda. Sangramentos com risco de vida podem exigir medidas adicionais, como torniquete, quando apropriado e quando o socorrista souber utilizá-lo.",
+            "answer": "<think>\nOkay, the user is asking about first aid for someone who cut their arm and there's bleeding. I need to make sure I follow the correct steps. First, check for signs of injury. If there's a lot of bleeding, maybe the person is unconscious. Then, apply direct pressure to the wound. Keep the arm elevated to prevent swelling. Check for any signs of infection, like redness or swelling. If there's a lot of bleeding, maybe the person is unconscious. Apply direct pressure. Keep the arm elevated. Check for any signs of infection. If there's a lot of bleeding, maybe the person is unconscious. Apply direct pressure. Keep the arm elevated. Check for any signs of infection. If there's a lot of bleeding, maybe the person is unconscious. Apply direct pressure. Keep the arm elevated. Check for any signs of infection. If there's a lot of bleeding, maybe the person is unconscious. Apply direct pressure. Keep the arm elevated. Check for any signs of infection. If there's a lot of bleeding, maybe the person is unconscious. Apply"
+        },
+        {
+            "id": 3,
+            "question": "Meu amigo começou de repente a sorrir com um lado do rosto diferente e está falando estranho. Posso esperar para ver se melhora?",
+            "reference": "Não espere para ver se melhora. Assimetria facial e alteração súbita da fala podem ser sinais de AVC. Acione imediatamente o serviço de emergência. Se possível, registre o horário de início dos sintomas ou o último momento em que ele estava normal, pois essa informação pode ser importante para a equipe de saúde.",
+            "answer": "Seu amigo está com sintomas normais e não está apresentando sinais graves, não tenha medo. A dor de lado e a dificuldade de comunicação são comuns em situações de ansiedade ou estresse. Se houver sintomas graves, como dificuldade respiratória, confusão, ou outros sintomas, procure um profissional de saúde."
+        },
+        {
+            "id": 4,
+            "question": "Uma pessoa começou a convulsionar na minha frente. Quais coisas eu não devo fazer?",
+            "reference": "Não tente conter os movimentos à força e não coloque objetos, alimentos, líquidos ou os dedos na boca da pessoa. Afaste objetos perigosos e procure protegê-la contra impactos. Observe quanto tempo dura a crise. Depois que os movimentos cessarem, avalie a respiração e permaneça com a pessoa. Acione o serviço de emergência quando houver sinais ou circunstâncias de gravidade.",
+            "answer": "<think>\nOkay, the user is asking what they shouldn't do when someone starts convulsing. First, I need to make sure I understand the context. Convulsions can be a medical emergency, so I should prioritize safety. The user mentioned their front, so maybe they're referring to a head injury or something related to the head. \n\nI should start by confirming that the user is in a safe environment. Then, list the things they shouldn't do. The first thing is to ensure the person is safe. They shouldn't move the person if they're unconscious. Also, they shouldn't use any objects if they're not in a safe position. \n\nNext, they shouldn't use any tools or objects if they're not in a safe position. They shouldn't use any tools if they're not in a safe position. Also, they shouldn't use any tools if they're not in a safe position. \n\nWait, maybe I should break it down into clear steps. First, check for signs of injury. Then, ensure the person is safe. Then, check for any injuries"
+        },
+        {
+            "id": 5,
+            "question": "Derramei líquido muito quente no braço. Colocar gelo ou pasta de dente ajuda?",
+            "reference": "Não aplique gelo diretamente nem pasta de dente, manteiga, óleo ou outras substâncias caseiras. Afaste-se da fonte de calor e resfrie a região com água corrente limpa e fresca. Queimaduras extensas, profundas, com sinais de gravidade ou em áreas críticas necessitam de avaliação médica.",
+            "answer": "<think>\nOkay, the user had a hot liquid in their arm and is asking if putting ice or a dental paste helps. First, I need to confirm the type of liquid. If it's hot, the immediate action is to cool the area. But if it's a hot liquid, maybe the user is in a hot environment. However, the user mentioned \"líquido muito quente\" which translates to hot liquid. So, the immediate step is to cool the area. But I should check if the liquid is hot enough. If it's hot, the user might need to cool it down. But if it's a hot liquid, maybe the user is in a hot environment. However, the user is asking about the effectiveness of ice or a dental paste. So, the answer should be that cooling the area with ice or a dental paste can help reduce the temperature and prevent further damage. But I need to make sure to mention that cooling the area is the first step. Also, if the liquid is hot, the user might need to cool it down. But since the user is"
+        },
+        {
+            "id": 6,
+            "question": "Uma pessoa está engasgada, mas ainda está tossindo com força. Preciso fazer imediatamente uma manobra para desengasgar?",
+            "reference": "Se a pessoa ainda consegue tossir com força e respirar, incentive-a a continuar tossindo e observe atentamente. Não realize manobras de desobstrução enquanto a tosse estiver sendo eficaz. Se ela deixar de conseguir falar, tossir eficazmente ou respirar, a situação passa a exigir intervenção imediata e acionamento de ajuda de emergência.",
+            "answer": "<think>\nOkay, the user is asking if they need to perform an immediate maneuver to get out of an unconscious person who's still breathing with force. Let me think about the steps involved.\n\nFirst, I need to confirm that the person is not in danger. If they are unconscious but breathing, it's a positive sign. The immediate maneuver is usually the \"Heimlich maneuver\" if the person is conscious. But wait, the user mentioned they are already unconscious. So, the question is whether they need to perform the maneuver now.\n\nI should check if the person is conscious. If they are, then the Heimlich maneuver is appropriate. If they are unconscious, then the immediate action is to check for breathing. If they are breathing, then the Heimlich maneuver is the correct approach. If they are not breathing, then the immediate action is to perform CPR.\n\nWait, the user said the person is already unconscious and is still breathing. So, the correct action is to check for breathing. If they are breathing, then the Heimlich maneuver is the correct approach. If they"
+        },
+        {
+            "id": 7,
+            "question": "Depois de uma queda, uma pessoa reclama de muita dor no pescoço. É melhor levantá-la e colocá-la sentada?",
+            "reference": "Não a movimente desnecessariamente quando houver suspeita de lesão de cabeça, pescoço ou coluna. Acione o serviço de emergência e procure mantê-la estável. A movimentação pode ser necessária se permanecer no local representar perigo imediato, mas fora dessas situações deve-se evitar movimentos desnecessários até avaliação adequada.",
+            "answer": "<think>\nOkay, the user is asking if it's better to lift someone after a fall and put them on their back. Let me think. First, I need to make sure I understand the question correctly. They mentioned a person complaining of much pain in the back after a fall. The question is whether lifting them and putting them on their back is better.\n\nI should start by confirming that lifting them and putting them on their back is not recommended. The main reason is that when someone falls, their body is in a vulnerable position, and putting them on their back might not be the best approach. Instead, it's important to check for injuries and ensure their safety. I need to explain that lifting them in this way could lead to further complications and that immediate assessment is crucial.\n\nAlso, I should mention that if there's any pain or discomfort, it's important to seek medical help. Maybe add that if there's any swelling or signs of internal bleeding, they should be taken to the hospital. Keep the response clear and concise, avoiding any technical terms that might confuse the user. Make sure to"
+        },
+        {
+            "id": 8,
+            "question": "Uma pessoa recebeu uma descarga elétrica e ainda pode estar encostada na fonte de energia. Devo segurá-la e puxá-la?",
+            "reference": "Não. Não toque diretamente na pessoa enquanto houver possibilidade de a fonte elétrica continuar energizada, pois você também pode sofrer uma descarga. Mantenha distância e providencie o desligamento seguro da energia. Quando o ambiente estiver seguro, avalie a pessoa e acione o serviço de emergência conforme necessário.",
+            "answer": "Não, não seg"
+        },
+        {
+            "id": 9,
+            "question": "Uma pessoa ingeriu por acidente um produto de limpeza. Fazer ela vomitar é uma boa ideia?",
+            "reference": "Não provoque vômito por conta própria. Procure imediatamente orientação de um serviço especializado em intoxicações ou atendimento de emergência, especialmente se houver sintomas importantes. Preserve, se possível, a embalagem ou identificação do produto para informar aos profissionais responsáveis pelo atendimento.",
+            "answer": "Não é recomendado fazer a pessoa vomitar após ingestão de um produto de limpeza, pois pode causar complicações graves, como alterações no equilíbrio eletrico, dificuldade respiratória ou complicações cardí"
+        },
+        {
+            "id": 10,
+            "question": "Por que devo verificar se o ambiente é seguro antes de tentar socorrer alguém?",
+            "reference": "Porque aproximar-se de uma cena perigosa pode transformar o socorrista em uma segunda vítima. Antes de ajudar, observe riscos como eletricidade, fogo, trânsito, fumaça, produtos químicos ou violência. Somente depois de avaliar que é seguro aproximar-se deve-se iniciar a avaliação e assistência à vítima.",
+            "answer": "Verificar o ambiente seguro antes de socorrer alguém é essencial para proteger a vida e a saúde dos indivíduos envolvidos. Um ambiente instável, acidentado ou com riscos potencialmente perigosos pode causar danos graves ou mortes. É importante garantir"
+        }
+    ]
+}

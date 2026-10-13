@@ -1,0 +1,31 @@
+{
+    "experiment": "exp01",
+    "model": "Qwen/Qwen3-0.6B",
+    "gpu": "NVIDIA GeForce RTX 4050 Laptop GPU",
+    "epochs": 1,
+    "learning_rate": 0.0002,
+    "lora_r": 8,
+    "lora_alpha": 16,
+    "train_samples": 30,
+    "validation_samples": 6,
+    "training_time_seconds": 66.78501534461975,
+    "peak_gpu_memory_gb": 1.5442967414855957,
+    "train_metrics": {
+        "train_runtime": 66.3685,
+        "train_samples_per_second": 0.452,
+        "train_steps_per_second": 0.121,
+        "total_flos": 9794173796352.0,
+        "train_loss": 2.5909537076950073,
+        "epoch": 1.0
+    },
+    "eval_metrics": {
+        "eval_loss": 2.3233108520507812,
+        "eval_runtime": 3.0938,
+        "eval_samples_per_second": 1.939,
+        "eval_steps_per_second": 1.939,
+        "eval_entropy": 2.0224859913190207,
+        "eval_num_tokens": 3664.0,
+        "eval_mean_token_accuracy": 0.5291485885779063,
+        "epoch": 1.0
+    }
+}

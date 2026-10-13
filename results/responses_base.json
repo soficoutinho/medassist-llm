@@ -1,0 +1,68 @@
+{
+    "model": "Qwen/Qwen3-0.6B",
+    "adapter": null,
+    "time_seconds": 85.43143105506897,
+    "peak_gpu_memory_gb": 1.1636457443237305,
+    "responses": [
+        {
+            "id": 1,
+            "question": "Cheguei a um local e encontrei uma pessoa caída que não responde e parece não respirar normalmente. Quais são minhas prioridades?",
+            "reference": "Primeiro, confirme que o local é seguro. Verifique rapidamente a responsividade e a respiração. Se a pessoa estiver inconsciente e não respirar normalmente, acione imediatamente o serviço de emergência, peça um DEA e inicie RCP conforme seu nível de treinamento. Utilize o DEA assim que estiver disponível e siga suas instruções.",
+            "answer": "Priorize a **prevenção e atendimento imediato** ao local. Primeiro, **verifique se a pessoa está consciente e respirando normalmente**. Se ela não respirar, **imprime o número de emergência** e **ajude-a a se apoiar no chão** para facilitar a respiração. Além disso, **identifique e trate qualquer ferida ou les"
+        },
+        {
+            "id": 2,
+            "question": "Uma pessoa cortou profundamente o braço e o sangramento não para. Como devo agir inicialmente?",
+            "reference": "Garanta que o local seja seguro e acione o serviço de emergência diante de hemorragia grave. Aplique pressão direta firme sobre o ferimento. Continue mantendo a pressão e observando a vítima enquanto aguarda ajuda. Sangramentos com risco de vida podem exigir medidas adicionais, como torniquete, quando apropriado e quando o socorrista souber utilizá-lo.",
+            "answer": "Se uma pessoa cortou profundamente o braço e há sangramento, siga estas etapas para agir inicialmente:  \n1. **Aplicar pressão** para parar a perda de sangue. Use uma toalha ou algodão para pressionar a área do sangramento.  \n2. **Verificar sinais de infecção**: Puxe a área para ver se houver sangue, dor, ou pus.  \n3. **Ev"
+        },
+        {
+            "id": 3,
+            "question": "Meu amigo começou de repente a sorrir com um lado do rosto diferente e está falando estranho. Posso esperar para ver se melhora?",
+            "reference": "Não espere para ver se melhora. Assimetria facial e alteração súbita da fala podem ser sinais de AVC. Acione imediatamente o serviço de emergência. Se possível, registre o horário de início dos sintomas ou o último momento em que ele estava normal, pois essa informação pode ser importante para a equipe de saúde.",
+            "answer": "Seu amigo está começando a sorrir com um lado do rosto diferente e está falando estranho, isso pode ser uma manifestação de um estado de ansiedade ou desconforto. É importante esperar para que ele se recupere, pois não é uma condição médica grave. Se houver preocupações, é recomendado que ele consulte um profissional de saúde para receber um avaliação detalhada."
+        },
+        {
+            "id": 4,
+            "question": "Uma pessoa começou a convulsionar na minha frente. Quais coisas eu não devo fazer?",
+            "reference": "Não tente conter os movimentos à força e não coloque objetos, alimentos, líquidos ou os dedos na boca da pessoa. Afaste objetos perigosos e procure protegê-la contra impactos. Observe quanto tempo dura a crise. Depois que os movimentos cessarem, avalie a respiração e permaneça com a pessoa. Acione o serviço de emergência quando houver sinais ou circunstâncias de gravidade.",
+            "answer": "<think>\nOkay, the user is asking what they shouldn't do when someone is having convulsions on their front. First, I need to make sure I understand the context. Convulsions can be a medical emergency, so the user is probably in a situation where they need to act quickly. The user might be a parent or someone caring for a child, so the advice should be clear and safe.\n\nI should start by confirming that the user is in a safe environment. Then, list the things they shouldn't do. The key points are to stay calm, avoid moving the person, and ensure safety. It's important to mention not to use any objects or tools that could cause harm. Also, if the person is unconscious, they should be placed in a safe position, like a bed, and not to use any objects. \n\nI need to make sure the response is in Portuguese, clear, and objective. Avoid any professional terms that might be confusing. Check for any possible mistakes in the response and ensure it's accurate. Also, consider the user's possible needs and provide practical steps"
+        },
+        {
+            "id": 5,
+            "question": "Derramei líquido muito quente no braço. Colocar gelo ou pasta de dente ajuda?",
+            "reference": "Não aplique gelo diretamente nem pasta de dente, manteiga, óleo ou outras substâncias caseiras. Afaste-se da fonte de calor e resfrie a região com água corrente limpa e fresca. Queimaduras extensas, profundas, com sinais de gravidade ou em áreas críticas necessitam de avaliação médica.",
+            "answer": "Se deram do líquido muito quente no braço, coloque **gelo** primeiro, pois ele ajuda a **coletar calor** e **prevenir danos**. Se o líquido for muito quente,"
+        },
+        {
+            "id": 6,
+            "question": "Uma pessoa está engasgada, mas ainda está tossindo com força. Preciso fazer imediatamente uma manobra para desengasgar?",
+            "reference": "Se a pessoa ainda consegue tossir com força e respirar, incentive-a a continuar tossindo e observe atentamente. Não realize manobras de desobstrução enquanto a tosse estiver sendo eficaz. Se ela deixar de conseguir falar, tossir eficazmente ou respirar, a situação passa a exigir intervenção imediata e acionamento de ajuda de emergência.",
+            "answer": "Se a pessoa está engasgada mas ainda está tossindo com força, é necessário **surfaceá-la imediatamente** para garantir sua vida. Não use ferramentas como um vidajante, pois isso pode ser perigoso. Ações recomendadas incluem: **mostrar a mão para a pessoa** e **ajudar a ela a se levantar**. Se a pessoa não estiver em água"
+        },
+        {
+            "id": 7,
+            "question": "Depois de uma queda, uma pessoa reclama de muita dor no pescoço. É melhor levantá-la e colocá-la sentada?",
+            "reference": "Não a movimente desnecessariamente quando houver suspeita de lesão de cabeça, pescoço ou coluna. Acione o serviço de emergência e procure mantê-la estável. A movimentação pode ser necessária se permanecer no local representar perigo imediato, mas fora dessas situações deve-se evitar movimentos desnecessários até avaliação adequada.",
+            "answer": "<think>\nOkay, the user is asking if it's better to lift someone after a fall and put them on their back. Let me think about this. First, I need to make sure I understand the question correctly. They mentioned a person who fell and is now complaining about pain in the back. The question is whether lifting them on their back is better.\n\nI remember that when someone falls, it's important to check for injuries. If the person is in the air, they might have a head injury, so it's crucial to assess their condition. If they are lying on their back, that's a good position because it helps prevent further injury. However, if they are in the air, lifting them on their back might not be the best approach. Instead, they should be placed on their side to avoid further damage.\n\nI should also consider the possibility of spinal injury. If the person is in the air, it's possible they have a spinal injury, and lifting them on their back could exacerbate the problem. Therefore, it's better to place them on their side to ensure proper support"
+        },
+        {
+            "id": 8,
+            "question": "Uma pessoa recebeu uma descarga elétrica e ainda pode estar encostada na fonte de energia. Devo segurá-la e puxá-la?",
+            "reference": "Não. Não toque diretamente na pessoa enquanto houver possibilidade de a fonte elétrica continuar energizada, pois você também pode sofrer uma descarga. Mantenha distância e providencie o desligamento seguro da energia. Quando o ambiente estiver seguro, avalie a pessoa e acione o serviço de emergência conforme necessário.",
+            "answer": "Não, você não deve segurar a pessoa. Ela está em contato com a fonte de energia, o que pode causar uma corrente elétrica. É essencial que ela seja afastada da fonte e que você use um equipamento de proteção contra eletricidade (como um suporte de proteção) para garantir sua segurança. Se for necessário, você deve seguir as orientações de um profissional de saúde pública."
+        },
+        {
+            "id": 9,
+            "question": "Uma pessoa ingeriu por acidente um produto de limpeza. Fazer ela vomitar é uma boa ideia?",
+            "reference": "Não provoque vômito por conta própria. Procure imediatamente orientação de um serviço especializado em intoxicações ou atendimento de emergência, especialmente se houver sintomas importantes. Preserve, se possível, a embalagem ou identificação do produto para informar aos profissionais responsáveis pelo atendimento.",
+            "answer": "Fazer a pessoa vomitar é uma boa ideia, mas é importante seguir as orientações do profissional de saúde. Vomitar pode causar complicações graves, especialmente se o produto for tóxico ou corrosivo. É recomendado que a pessoa seja atendida por um médico ou um serviço de emergência para garantir a segurança e a recuperação. Se houver dúvidas ou preocupações, consulte um"
+        },
+        {
+            "id": 10,
+            "question": "Por que devo verificar se o ambiente é seguro antes de tentar socorrer alguém?",
+            "reference": "Porque aproximar-se de uma cena perigosa pode transformar o socorrista em uma segunda vítima. Antes de ajudar, observe riscos como eletricidade, fogo, trânsito, fumaça, produtos químicos ou violência. Somente depois de avaliar que é seguro aproximar-se deve-se iniciar a avaliação e assistência à vítima.",
+            "answer": "Verificar se o ambiente é seguro antes de tentar socorrer alguém é essencial para garantir a segurança do indivíduo e a integridade do atendimento. Isso ajuda a identificar possíveis riscos"
+        }
+    ]
+}

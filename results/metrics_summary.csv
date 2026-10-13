@@ -1,0 +1,7 @@
+﻿experiment,dataset_version,epochs,learning_rate,lora_r,lora_alpha,train_samples,validation_samples,train_loss,validation_loss,training_time_seconds,peak_gpu_memory_gb
+exp01,v1,1,0.0002,8,16,30,6,2.591,2.3233,66.79,1.54
+exp02,v1,3,0.0002,16,32,30,6,1.9023,1.772,41.22,1.65
+exp03,v1,3,0.0001,32,64,30,6,1.9314,1.8032,84.52,1.82
+exp04,v2,3,0.0002,16,32,120,15,1.3753,1.0683,416.56,1.61
+exp05,v2,5,0.0001,16,32,120,15,1.2634,1.1085,824.13,2.39
+exp06,v2,5,5e-05,32,64,120,15,1.34,1.1795,1023.77,2.43

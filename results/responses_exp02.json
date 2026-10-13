@@ -1,0 +1,68 @@
+{
+    "model": "Qwen/Qwen3-0.6B",
+    "adapter": "experiments\\exp02\\final_adapter",
+    "time_seconds": 51.13277554512024,
+    "peak_gpu_memory_gb": 1.18617582321167,
+    "responses": [
+        {
+            "id": 1,
+            "question": "Cheguei a um local e encontrei uma pessoa caída que não responde e parece não respirar normalmente. Quais são minhas prioridades?",
+            "reference": "Primeiro, confirme que o local é seguro. Verifique rapidamente a responsividade e a respiração. Se a pessoa estiver inconsciente e não respirar normalmente, acione imediatamente o serviço de emergência, peça um DEA e inicie RCP conforme seu nível de treinamento. Utilize o DEA assim que estiver disponível e siga suas instruções.",
+            "answer": "Priorize a segurança da pessoa e acione o serviço de emergência. Continue monitorando seu estado e acione o serviço de emergência se houver sinais de desacordagem ou dificuldade respiratória."
+        },
+        {
+            "id": 2,
+            "question": "Uma pessoa cortou profundamente o braço e o sangramento não para. Como devo agir inicialmente?",
+            "reference": "Garanta que o local seja seguro e acione o serviço de emergência diante de hemorragia grave. Aplique pressão direta firme sobre o ferimento. Continue mantendo a pressão e observando a vítima enquanto aguarda ajuda. Sangramentos com risco de vida podem exigir medidas adicionais, como torniquete, quando apropriado e quando o socorrista souber utilizá-lo.",
+            "answer": "Primeiro, avalie a situação. Se a pessoa estiver em situações de risco, como acidentes, acidentes graves ou situações de emergência, acione o serviço de emergência. Se a pessoa estiver em situações de risco, como acidentes, acidentes graves ou situações de emergência, acione o serviço de emergência. Se a pessoa estiver em situações de risco, como acidentes, acidentes graves ou situações de emergência, acione o serviço de emergência."
+        },
+        {
+            "id": 3,
+            "question": "Meu amigo começou de repente a sorrir com um lado do rosto diferente e está falando estranho. Posso esperar para ver se melhora?",
+            "reference": "Não espere para ver se melhora. Assimetria facial e alteração súbita da fala podem ser sinais de AVC. Acione imediatamente o serviço de emergência. Se possível, registre o horário de início dos sintomas ou o último momento em que ele estava normal, pois essa informação pode ser importante para a equipe de saúde.",
+            "answer": "Não esperar muito tempo. Se houver sinais de dificuldade respiratória, dificuldade cardíaca, alteração da consciência ou dor de cabeça, acione imediatamente o serviço de emergência."
+        },
+        {
+            "id": 4,
+            "question": "Uma pessoa começou a convulsionar na minha frente. Quais coisas eu não devo fazer?",
+            "reference": "Não tente conter os movimentos à força e não coloque objetos, alimentos, líquidos ou os dedos na boca da pessoa. Afaste objetos perigosos e procure protegê-la contra impactos. Observe quanto tempo dura a crise. Depois que os movimentos cessarem, avalie a respiração e permaneça com a pessoa. Acione o serviço de emergência quando houver sinais ou circunstâncias de gravidade.",
+            "answer": "Não acione o serviço de emergência enquanto a pessoa não estiver em estado de alerta. Evite acioná-la enquanto ela estiver em movimento. Se a pessoa não estiver em estado de alerta, procure ajuda de um serviço de emergência. Se ela estiver em movimento e não apresentar sinais de lesão, continue monitorando-a."
+        },
+        {
+            "id": 5,
+            "question": "Derramei líquido muito quente no braço. Colocar gelo ou pasta de dente ajuda?",
+            "reference": "Não aplique gelo diretamente nem pasta de dente, manteiga, óleo ou outras substâncias caseiras. Afaste-se da fonte de calor e resfrie a região com água corrente limpa e fresca. Queimaduras extensas, profundas, com sinais de gravidade ou em áreas críticas necessitam de avaliação médica.",
+            "answer": "Coloque gelo suave e não coloque água quente na boca. Após aplicar gelo, observe a temperatura do sangue. Se a dor persistir, procure atendimento profissional."
+        },
+        {
+            "id": 6,
+            "question": "Uma pessoa está engasgada, mas ainda está tossindo com força. Preciso fazer imediatamente uma manobra para desengasgar?",
+            "reference": "Se a pessoa ainda consegue tossir com força e respirar, incentive-a a continuar tossindo e observe atentamente. Não realize manobras de desobstrução enquanto a tosse estiver sendo eficaz. Se ela deixar de conseguir falar, tossir eficazmente ou respirar, a situação passa a exigir intervenção imediata e acionamento de ajuda de emergência.",
+            "answer": "Sim, faça uma manobra de desengasgar. Continue a tossição até que a pessoa acione o serviço de emergência."
+        },
+        {
+            "id": 7,
+            "question": "Depois de uma queda, uma pessoa reclama de muita dor no pescoço. É melhor levantá-la e colocá-la sentada?",
+            "reference": "Não a movimente desnecessariamente quando houver suspeita de lesão de cabeça, pescoço ou coluna. Acione o serviço de emergência e procure mantê-la estável. A movimentação pode ser necessária se permanecer no local representar perigo imediato, mas fora dessas situações deve-se evitar movimentos desnecessários até avaliação adequada.",
+            "answer": "Não levante a pessoa enquanto ela estiver com dor no pescoço. Primeiro avalie sua situação. Se ela estiver com lesão grave, acione o serviço de emergência. Depois, coloque-a em posição segura e mantenha-a sentada. Continue monitorando sua respiração e estado de consciência."
+        },
+        {
+            "id": 8,
+            "question": "Uma pessoa recebeu uma descarga elétrica e ainda pode estar encostada na fonte de energia. Devo segurá-la e puxá-la?",
+            "reference": "Não. Não toque diretamente na pessoa enquanto houver possibilidade de a fonte elétrica continuar energizada, pois você também pode sofrer uma descarga. Mantenha distância e providencie o desligamento seguro da energia. Quando o ambiente estiver seguro, avalie a pessoa e acione o serviço de emergência conforme necessário.",
+            "answer": "Não segure a pessoa enquanto ela ainda estiver em contato com a fonte de energia. Continue a segurança e acione imediatamente o serviço de emergência."
+        },
+        {
+            "id": 9,
+            "question": "Uma pessoa ingeriu por acidente um produto de limpeza. Fazer ela vomitar é uma boa ideia?",
+            "reference": "Não provoque vômito por conta própria. Procure imediatamente orientação de um serviço especializado em intoxicações ou atendimento de emergência, especialmente se houver sintomas importantes. Preserve, se possível, a embalagem ou identificação do produto para informar aos profissionais responsáveis pelo atendimento.",
+            "answer": "Fazer a pessoa vomitar pode ser uma boa ideia, especialmente se ela não estiver em estado de acidez grave ou apresentar sinais como dificuldade respiratória, perda de consciência ou sangramento. Continue monitorando a situação e acione imediatamente o serviço de emergência se houver alteração significativa."
+        },
+        {
+            "id": 10,
+            "question": "Por que devo verificar se o ambiente é seguro antes de tentar socorrer alguém?",
+            "reference": "Porque aproximar-se de uma cena perigosa pode transformar o socorrista em uma segunda vítima. Antes de ajudar, observe riscos como eletricidade, fogo, trânsito, fumaça, produtos químicos ou violência. Somente depois de avaliar que é seguro aproximar-se deve-se iniciar a avaliação e assistência à vítima.",
+            "answer": "Verificar se o ambiente é seguro antes de tentar socorrer alguém ajuda a garantir a segurança da pessoa e a eficácia do atendimento. Assim, você pode proteger a própria segurança e a segurança da vítima."
+        }
+    ]
+}
